@@ -53,7 +53,7 @@ function NewNote(props) {
           onChange={handleChange}
           value={note.content}
           placeholder="Write your note..."
-          rows={isExpanded ? 3: 1}
+          rows={isExpanded ? 3 : 1}
         />
         {/* Button zooms on expansion */}
         <Zoom in={isExpanded}>
