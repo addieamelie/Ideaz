@@ -1,3 +1,11 @@
+# Notes Web App
+![Notes preview](ideaz-preview.png)
+
+React web app where you can create notes
+ Made using: React, Material UI
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
