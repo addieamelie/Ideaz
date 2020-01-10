@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 html {
-  font-family: "Patrick Hand SC", sans-serif;
+  font-family: "Patrick Hand", sans-serif;
 }
 body {
   padding: 0 16px;
@@ -28,6 +28,7 @@ header h1 {
 h2 {
   color: #dcd3b8b1;
   font-size: 2rem;
+  font-family: "Coming Soon", sans-serif;
 }
 
 footer {
