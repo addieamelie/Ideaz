@@ -52,7 +52,7 @@ function NewNote(props) {
           onClick={expand}
           onChange={handleChange}
           value={note.content}
-          placeholder="Add a sticky note..."
+          placeholder="Write your note..."
           rows={isExpanded ? 3: 1}
         />
         {/* Button zooms on expansion */}
